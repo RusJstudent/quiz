@@ -25,3 +25,7 @@
 .container-2 p, .container-2 input, .container-2 h2 {
     margin-bottom: 3vh;
 }
+
+p {
+    font-size: 12px;
+}
